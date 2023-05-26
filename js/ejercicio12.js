@@ -18,7 +18,7 @@ let usuarios = [
 
 // let allNombres = usuarios.map(function(a) {return a.nombre})
 
-let allNombres = usuarios.map(a => a.nombre)
+let allNombres = usuarios.map(a => a.nombre);
 
 // let allNombres = usuarios.map(a => `${a.nombre} --/-- ${a.numComentarios}`)
 
